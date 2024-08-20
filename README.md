@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Links
 
-- **Live Site URL:** [Digital Marketing Agency](#) *(Replace with your live site URL)*
+
 - **Frontend Mentor Challenge URL:** [Sunnyside Agency Landing Page](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
 ## Screenshot
